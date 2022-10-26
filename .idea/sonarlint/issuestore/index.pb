@@ -3,8 +3,6 @@
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 b
 2src/test/java/com/project/runner/FailedRunner.java,3/0/309ce6ec72b742cd781340ec6b6b2e866718ae73
-H
-configuration.properties,b/6/b6c5dfcde54b418dd721679edbc49a89558b78a0
 ]
 -src/test/java/com/project/pages/BasePage.java,7/b/7b3b82a26751d2b00c8afb8f4764810c43807fad
 _
